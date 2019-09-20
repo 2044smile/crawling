@@ -1,6 +1,0 @@
-beautifulsoup4==4.8.0
-bs4==0.0.1
-colorama==0.4.1
-requests==2.22.0
-termcolor==1.1.0
-termcolor2==0.0.3
